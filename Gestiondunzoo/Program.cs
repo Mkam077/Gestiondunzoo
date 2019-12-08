@@ -13,7 +13,7 @@ namespace Gestiondunzoo
 
             Console.WriteLine(A1.ToString());
 
-            Zoo zoodeNewYork = new Zoo("zoo de New York", 20);
+            Zoo zoodeNewYork = new Zoo("zoo de Washington", 20);
 
             zoodeNewYork.ajouter(A1);
             zoodeNewYork.ajouter(A2);
